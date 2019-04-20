@@ -1,0 +1,9 @@
+pane	0	0	:./st	1	:*Z	0	:/home/adonese/tor-browser_en-US	0	top	:top
+pane	0	0	:./st	1	:*Z	1	:/home/adonese/ninja	0	zsh	:
+pane	0	0	:./st	1	:*Z	2	:/home/adonese/courses/edx	0	zsh	:
+pane	0	0	:./st	1	:*Z	3	:/home/adonese/web-dev/istole	0	python	:python main.py
+pane	0	0	:./st	1	:*Z	4	:/home/adonese/st-0.7	1	./st	:./st
+pane	1	0	:~/st-0.7	1	:*	0	:/home/adonese/st-0.7	1	zsh	:
+window	0	0	1	:*Z	c1ac,147x38,0,0{82x38,0,0[82x23,0,0,1,82x14,0,24,2],64x38,83,0[64x17,83,0,3,64x10,83,18,4,64x9,83,29,5]}
+window	1	0	1	:*	b2c3,133x32,0,0,6
+state	0	

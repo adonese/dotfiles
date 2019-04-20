@@ -1,0 +1,6 @@
+pane	0	0	:~/courses/edx	1	:*	0	:/home/adonese/courses/edx	1	zsh	:
+pane	0	0	:~/courses/edx	1	:*	1	:/home/adonese	0	zsh	:
+pane	0	0	:~/courses/edx	1	:*	2	:/home/adonese	0	zsh	:
+pane	0	0	:~/courses/edx	1	:*	3	:/home/adonese/open-source-projects/TernausNet	0	zsh	:
+window	0	0	1	:*	6740,157x37,0,0[157x16,0,0,1,157x10,0,17,2,157x9,0,28{86x9,0,28,3,70x9,87,28,4}]
+state	0	

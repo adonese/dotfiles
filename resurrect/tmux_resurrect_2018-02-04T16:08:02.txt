@@ -1,0 +1,9 @@
+pane	0	0	:~/ninja	1	:*	0	:/home/adonese/tor-browser_en-US	0	zsh	:
+pane	0	0	:~/ninja	1	:*	1	:/home/adonese/ninja	1	zsh	:
+pane	0	0	:~/ninja	1	:*	2	:/home/adonese/morsal	0	ssh	:ssh administrator@192.168.22.70
+pane	0	0	:~/ninja	1	:*	3	:/home/adonese/web-dev/istole	0	ssh	:ssh administrator@192.168.22.10
+pane	0	0	:~/ninja	1	:*	4	:/home/adonese/morsal	0	zsh	:
+pane	1	0	:~/st-0.7	1	:*	0	:/home/adonese/st-0.7	1	zsh	:
+window	0	0	1	:*	07ed,159x37,0,0{94x37,0,0[94x23,0,0,1,94x13,0,24,2],64x37,95,0[64x20,95,0,3,64x10,95,21,4,64x5,95,32,5]}
+window	1	0	1	:*	afa3,92x23,0,0,6
+state	0	1

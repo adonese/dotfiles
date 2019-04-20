@@ -1,0 +1,7 @@
+pane	0	0	:~/courses/edx	1	:*Z	0	:/home/adonese/tor-browser_en-US	0	top	:top
+pane	0	0	:~/courses/edx	1	:*Z	1	:/home/adonese/ninja	0	zsh	:
+pane	0	0	:~/courses/edx	1	:*Z	2	:/home/adonese/courses/edx	1	zsh	:
+pane	0	0	:~/courses/edx	1	:*Z	3	:/home/adonese/linux-x86_64	0	./piknik	:./piknik -server
+pane	0	0	:~/courses/edx	1	:*Z	4	:/home/adonese	0	zsh	:
+window	0	0	1	:*Z	c2e2,161x42,0,0{89x42,0,0[89x25,0,0,1,89x16,0,26,2],71x42,90,0[71x19,90,0,3,71x11,90,20,4,71x10,90,32,5]}
+state	0	
